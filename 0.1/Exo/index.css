@@ -1,0 +1,113 @@
+html{
+    background-image: url(https://p0.pikist.com/photos/1005/332/village-asian-people-asia-rural-smile-happy-ethnicity-tibetan.jpg) ;
+	background-repeat: no-repeat;
+	background-position: bottom-right;
+    background-size: cover;
+}
+p{
+	font-family: "arial", verdana, serif;
+	font-size:.925em;
+	line-height:1.5;
+    letter-spacing:.15rem;
+    color: rgb(32, 32, 32);
+}
+
+.textArticle{
+	letter-spacing:.20rem;
+	line-height:2.5;
+	display: inline;
+}
+
+img{
+	margin-bottom: 10px;
+}
+
+#article{
+    margin: 5% 0%;
+    height: auto;
+}
+.float{
+    width: 40%;
+    height: auto;
+}
+.float figcaption{
+	display: inline;
+}
+.float img{
+    width: 100%;
+    
+}
+
+.Left{
+    float: left;
+    margin-right: 20px;
+}
+.Right{
+    float: right;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+
+a{
+    text-decoration: none;
+    font-size : medium;
+}
+
+a:hover {
+	font-size: big;
+	color: green;
+}
+
+a:visited {
+	color: red;
+}
+main{
+	background-color:  rgba(248, 248, 248, 0.794);
+	padding: 2% 5%;
+	
+}
+body {
+	margin: 0 auto;
+}
+
+blockquote {
+	margin: 0 auto;
+	font-size: 160%;
+	background-color: #D3D3D3;
+	padding-left: 30px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	border-style: solid;
+	border-width: 0 0 0 3px;
+	border-color: #B22222; 
+	border-spacing: 30px;
+	width: 50%;
+}
+
+.q {
+	font-style: italic;
+}
+
+.fermier {
+	color: green;
+}
+.villagois {
+	color: red;
+}
+figcaption
+ {
+	font-style: italic;
+}
+
+header > p:first-child {
+    background-color: yellow;
+}
+
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
